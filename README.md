@@ -37,17 +37,17 @@ ALTER TABLE `book`
 COMMIT;
 
 ```
-## How to Run
+## How to get this app to your device
 You can clone the project by using this command 
 ```git
 git clone https://github.com/egledev/Crud-Operation-jsp-servlet-css.git
 ```
-## After cloning 
-You need to install apache tomcat 8.5 
-[apache](https://tomcat.apache.org/)
-
-
-
+## How To Run 
+#### You need to install apache tomcat 8.5 [apache](https://tomcat.apache.org/)
+#### You should modify db configuration in [BookDao](https://github.com/egledev/Crud-Operation-jsp-servlet-css/blob/master/src/main/java/bookDAO/BookDAO.java) Class 
+## web content 
+#### To get to web content [webapp](https://github.com/egledev/Crud-Operation-jsp-servlet-css/tree/master/src/main/webapp)
+#### To get to java content [java](https://github.com/egledev/Crud-Operation-jsp-servlet-css/tree/master/src/main/java)
 
 
 
