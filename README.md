@@ -39,9 +39,13 @@ COMMIT;
 ```
 ## How to Run
 You can clone the project by using this command 
-'''
-git clone 
-'''
+```git
+git clone https://github.com/egledev/Crud-Operation-jsp-servlet-css.git
+```
+## After cloning 
+You need to install apache tomcat 8.5 
+[apache](https://tomcat.apache.org/)
+
 
 
 
