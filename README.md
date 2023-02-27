@@ -37,3 +37,18 @@ ALTER TABLE `book`
 COMMIT;
 
 ```
+## How to Run
+You can clone the project by using this command 
+'''
+git clone 
+'''
+
+
+
+
+
+
+
+
+
+
