@@ -1,6 +1,6 @@
 # Crud-Operation-jsp-servlet-css
 simple crud operation using Jsp and Servlet
-
+using mysql database 
 ## screan shots of project
 
 #### BookList image
@@ -44,6 +44,7 @@ git clone https://github.com/egledev/Crud-Operation-jsp-servlet-css.git
 ```
 ## How To Run 
 #### You need to install apache tomcat 8.5 [apache](https://tomcat.apache.org/)
+#### configure build path of project and add server runtime library
 #### You should modify db configuration in [BookDao](https://github.com/egledev/Crud-Operation-jsp-servlet-css/blob/master/src/main/java/bookDAO/BookDAO.java) Class 
 ## web content 
 #### To get to web content [webapp](https://github.com/egledev/Crud-Operation-jsp-servlet-css/tree/master/src/main/webapp)
